@@ -4,7 +4,7 @@
 #                                                                    #
 ######################################################################
 【English】
-[Purpose, Production History].
+[Purpose, Production History]
 When streaming games on Twitch or Youtube, "looking at a different display to see the comments" causes the following problems
 
 ・You will miss the comments because you are concentrating on the game.
@@ -14,7 +14,7 @@ So I tried the overlay function of the distribution software, but none of them c
 
 This software is the product of solving the above problems and seeking versatility.
 
-[Function of this software].
+[Function of this software]
 The basic function of the software is to "place the browser source on the screen.
 The browser background can be switched between transparent and opaque, and comments and alerts from StreamLabs, Doneru, and other UI available in the browser source can be placed on the screen without any sense of discomfort.
 
@@ -30,7 +30,7 @@ The browser background can be switched between transparent and opaque, and comme
 ・Overlay window
   ⇒The overlay window in the visible state can be moved and resized, but the overlay window in the non-display or transparent state cannot be moved or resized.
 
-[About the source code].
+[About the source code]
 Basically, it is open to the public, but secondary distribution is prohibited.
 
 [Future issues]

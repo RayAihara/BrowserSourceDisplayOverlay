@@ -29,12 +29,12 @@ The browser background can be switched between transparent and opaque, and comme
   
 ・Overlay window  
   ⇒The overlay window in the visible state can be moved and resized, but the overlay window in the non-display or transparent state cannot be moved or resized.  
+  ⇒You can change the magnification of the browser by pressing Ctrl + Mouse Wheel Scroll.
   
 [About the source code]  
 Basically, it is open to the public, but secondary distribution is prohibited.  
   
 [Future issues]  
-・Support zooming in and out in the browser.  
   
   
 Opinions are welcome on GitHub.  
@@ -69,10 +69,10 @@ TwitchやYoutubeのゲーム配信の際に、「コメントを見るために�
   
 ・オーバーレイウィンドウ  
   ⇒表示状態のオーバーレイウィンドウは移動・サイズ変更可能ですが、非表示や背景透過状態のオーバーレイウィンドウは移動もサイズ変更もできません。  
-  
+  ⇒Ctrl + スクロールでブラウザの表示倍率を変更できます  
   
 [今後の課題]  
-・ブラウザ内の縮小拡大をサポート  
+
   
   
 意見等はGitHubにて受け付けています。  

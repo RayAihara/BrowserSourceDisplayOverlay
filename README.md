@@ -1,6 +1,6 @@
 ######################################################################  
 #                                                                    #  
-# BrowserSourceDisplayOverlay    V 1.0.0.0                           #  
+# BrowserSourceDisplayOverlay    V 1.0.1.0                           #  
 #                                                                    #  
 ######################################################################  
 【English】  
@@ -29,7 +29,7 @@ The browser background can be switched between transparent and opaque, and comme
   
 ・Overlay window  
   ⇒The overlay window in the visible state can be moved and resized, but the overlay window in the non-display or transparent state cannot be moved or resized.  
-  ⇒You can change the magnification of the browser by pressing Ctrl + Mouse Wheel Scroll.
+  ⇒You can change the magnification of the browser by pressing Ctrl + Mouse Wheel Scroll.  
   
 [About the source code]  
 Basically, it is open to the public, but secondary distribution is prohibited.  

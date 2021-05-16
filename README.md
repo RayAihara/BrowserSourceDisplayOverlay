@@ -3,80 +3,78 @@
 # BrowserSourceDisplayOverlay    V 1.0.0.0                           #
 #                                                                    #
 ######################################################################
-yEnglishz
+ã€Englishã€‘
 [Purpose, Production History].
 When streaming games on Twitch or Youtube, "looking at a different display to see the comments" causes the following problems
 
-EYou will miss the comments because you are concentrating on the game.
-EIn busy games such as FPS, taking your eyes off the screen can be fatal.
+ãƒ»You will miss the comments because you are concentrating on the game.
+ãƒ»In busy games such as FPS, taking your eyes off the screen can be fatal.
 
 So I tried the overlay function of the distribution software, but none of them could make the background color transparent, and I gave up due to the problem of occupying the field of view in FPS and other games.
 
 This software is the product of solving the above problems and seeking versatility.
-
-Translated with www.DeepL.com/Translator (free version)
 
 [Function of this software].
 The basic function of the software is to "place the browser source on the screen.
 The browser background can be switched between transparent and opaque, and comments and alerts from StreamLabs, Doneru, and other UI available in the browser source can be placed on the screen without any sense of discomfort.
 
 [Operation]
-EMain Form
-  ËYou can add an overlay by clicking the "Add Overlay" button at the bottom.
-  ËThe URL specified at the time of addition can be displayed as a browser source.
-  ËClick the "Add Overlay" button at the bottom to add an overlay.
-    ¨Click on the "Show" button to toggle between showing and hiding.
-    ¨Clicking the "BGTrans" button toggles the background color between transparent and non-transparent.
-    ¨Press the "X" button to delete the source.
+ãƒ»Main Form
+  â‡’You can add an overlay by clicking the "Add Overlay" button at the bottom.
+  â‡’The URL specified at the time of addition can be displayed as a browser source.
+  â‡’Click the "Add Overlay" button at the bottom to add an overlay.
+    â†’Click on the "Show" button to toggle between showing and hiding.
+    â†’Clicking the "BGTrans" button toggles the background color between transparent and non-transparent.
+    â†’Press the "X" button to delete the source.
 
-EOverlay window
-  ËThe overlay window in the visible state can be moved and resized, but the overlay window in the non-display or transparent state cannot be moved or resized.
+ãƒ»Overlay window
+  â‡’The overlay window in the visible state can be moved and resized, but the overlay window in the non-display or transparent state cannot be moved or resized.
 
 [About the source code].
 Basically, it is open to the public, but secondary distribution is prohibited.
 
 [Future issues]
-ESupport zooming in and out in the browser.
+ãƒ»Support zooming in and out in the browser.
 
 
 Opinions are welcome on GitHub.
 
 
 
-y“ú–{Œêz
+ã€æ—¥æœ¬èªã€‘
 
-[–Ú“IE»ìŒoˆÜ]
-Twitch‚âYoutube‚ÌƒQ[ƒ€”zM‚ÌÛ‚ÉAuƒRƒƒ“ƒg‚ğŒ©‚é‚½‚ß‚É•Ê‚ÌƒfƒBƒXƒvƒŒƒC‚ğŒ©‚év‚Æ‚¢‚¤‚Ì‚ªˆÈ‰º‚Ì–â‘è‚ğ‹N‚±‚µ‚Ü‚·B
+[ç›®çš„ãƒ»è£½ä½œçµŒç·¯]
+Twitchã‚„Youtubeã®ã‚²ãƒ¼ãƒ é…ä¿¡ã®éš›ã«ã€ã€Œã‚³ãƒ¡ãƒ³ãƒˆã‚’è¦‹ã‚‹ãŸã‚ã«åˆ¥ã®ãƒ‡ã‚£ã‚¹ãƒ—ãƒ¬ã‚¤ã‚’è¦‹ã‚‹ã€ã¨ã„ã†ã®ãŒä»¥ä¸‹ã®å•é¡Œã‚’èµ·ã“ã—ã¾ã™ã€‚
 
-EƒQ[ƒ€‚ÉW’†‚µ‚ÄƒRƒƒ“ƒg‚ğŒ©—‚Æ‚·
-EFPS‚È‚Ç‚Ì–Z‚µ‚¢ƒQ[ƒ€‚Å‚Í–Ú‚ğ—£‚·‚Æ–½æ‚è
+ãƒ»ã‚²ãƒ¼ãƒ ã«é›†ä¸­ã—ã¦ã‚³ãƒ¡ãƒ³ãƒˆã‚’è¦‹è½ã¨ã™
+ãƒ»FPSãªã©ã®å¿™ã—ã„ã‚²ãƒ¼ãƒ ã§ã¯ç›®ã‚’é›¢ã™ã¨å‘½å–ã‚Š
 
-‚»‚±‚Å”zMƒ\ƒtƒg‚ÌƒI[ƒo[ƒŒƒC‹@”\‚ğ‚µ‚Ä‚İ‚½‚ªA‚Ç‚ê‚à”wŒiF‚ğ“§‰ß‚É‚·‚é‚±‚Æ‚ªo—ˆ‚¸AFPS‚È‚Ç‚Å‚Í‹ŠE‚Ìè—L—¦‚Ì–â‘è‚©‚ç’f”O‚µ‚½B
+ãã“ã§é…ä¿¡ã‚½ãƒ•ãƒˆã®ã‚ªãƒ¼ãƒãƒ¼ãƒ¬ã‚¤æ©Ÿèƒ½ã‚’è©¦ã—ã¦ã¿ãŸãŒã€ã©ã‚Œã‚‚èƒŒæ™¯è‰²ã‚’é€éã«ã™ã‚‹ã“ã¨ãŒå‡ºæ¥ãšã€FPSãªã©ã§ã¯è¦–ç•Œã®å æœ‰ç‡ã®å•é¡Œã‹ã‚‰æ–­å¿µã—ãŸã€‚
 
-‚±‚Ìƒ\ƒtƒg‚Íã‹L–â‘è‚ğ‰ğŒˆ‚·‚é‚Æ‚Æ‚à‚ÉA”Ä—p«‚ğ‹‚ß‚½Œ‹‰Ê‚Å‚«‚½Y•¨‚Å‚·B
-
-
-[–{ƒ\ƒtƒg‚Ì‹@”\]
-Šî–{‹@”\‚Íuƒuƒ‰ƒEƒUƒ\[ƒX‚ğ‰æ–Êã‚É”z’u‚·‚é‚±‚Æv‚Æ‚È‚è‚Ü‚·B
-ƒuƒ‰ƒEƒU‚Ì”wŒi‚Í“§‰ß/•s“§‰ß‚ğØ‚è‘Ö‚¦‚é‚±‚Æ‚ªo—ˆAStreamLabs‚â‚Ç‚Ë‚é‚È‚Ç‚ÌƒRƒƒ“ƒg‚âƒAƒ‰[ƒgA‚»‚Ì‘¼ƒuƒ‰ƒEƒUƒ\[ƒX‚Å—˜—p‰Â”\‚ÈUI“™‚ğˆá˜aŠ´‚È‚­‰æ–Ê‚É”z’u‚Å‚«‚Ü‚·B
-
-[‘€ì]
-EƒƒCƒ“ƒtƒH[ƒ€
-  Ëˆê”Ô‰º‚ÌuAdd Overlayvƒ{ƒ^ƒ“‚ğƒNƒŠƒbƒN‚·‚é‚±‚Æ‚ÅƒI[ƒo[ƒŒƒC‚ğ’Ç‰Á‚Å‚«‚Ü‚·B
-  Ë’Ç‰Áw’è‚µ‚½URL‚ğƒuƒ‰ƒEƒUƒ\[ƒX‚Æ‚µ‚Ä•\¦‚Å‚«‚Ü‚·B
-  Ë’Ç‰Á‚µ‚½ƒ\[ƒX‚ÍƒƒCƒ“ƒtƒH[ƒ€‚ÉƒŠƒXƒg‚Å•\¦‚³‚ê‚Ü‚·B
-    ¨uShowvƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚±‚Æ‚Å•\¦”ñ•\¦‚ğØ‚è‘Ö‚¦‚Ü‚·B
-    ¨uBGTransvƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚±‚Æ‚Å”wŒiF‚Ì“§‰ß•s“§‰ß‚ğØ‚è‘Ö‚¦‚Ü‚·B
-    ¨u~vƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚±‚Æ‚Åƒ\[ƒX‚ğíœ‚Å‚«‚Ü‚·B
-
-EƒI[ƒo[ƒŒƒCƒEƒBƒ“ƒhƒE
-  Ë•\¦ó‘Ô‚ÌƒI[ƒo[ƒŒƒCƒEƒBƒ“ƒhƒE‚ÍˆÚ“®EƒTƒCƒY•ÏX‰Â”\‚Å‚·‚ªA”ñ•\¦‚â”wŒi“§‰ßó‘Ô‚ÌƒI[ƒo[ƒŒƒCƒEƒBƒ“ƒhƒE‚ÍˆÚ“®‚àƒTƒCƒY•ÏX‚à‚Å‚«‚Ü‚¹‚ñB
+ã“ã®ã‚½ãƒ•ãƒˆã¯ä¸Šè¨˜å•é¡Œã‚’è§£æ±ºã™ã‚‹ã¨ã¨ã‚‚ã«ã€æ±ç”¨æ€§ã‚’æ±‚ã‚ãŸçµæœã§ããŸç”£ç‰©ã§ã™ã€‚
 
 
-[¡Œã‚Ì‰Û‘è]
-Eƒuƒ‰ƒEƒU“à‚Ìk¬Šg‘å‚ğƒTƒ|[ƒg
+[æœ¬ã‚½ãƒ•ãƒˆã®æ©Ÿèƒ½]
+åŸºæœ¬æ©Ÿèƒ½ã¯ã€Œãƒ–ãƒ©ã‚¦ã‚¶ã‚½ãƒ¼ã‚¹ã‚’ç”»é¢ä¸Šã«é…ç½®ã™ã‚‹ã“ã¨ã€ã¨ãªã‚Šã¾ã™ã€‚
+ãƒ–ãƒ©ã‚¦ã‚¶ã®èƒŒæ™¯ã¯é€é/ä¸é€éã‚’åˆ‡ã‚Šæ›¿ãˆã‚‹ã“ã¨ãŒå‡ºæ¥ã€StreamLabsã‚„ã©ã­ã‚‹ãªã©ã®ã‚³ãƒ¡ãƒ³ãƒˆã‚„ã‚¢ãƒ©ãƒ¼ãƒˆã€ãã®ä»–ãƒ–ãƒ©ã‚¦ã‚¶ã‚½ãƒ¼ã‚¹ã§åˆ©ç”¨å¯èƒ½ãªUIç­‰ã‚’é•å’Œæ„Ÿãªãç”»é¢ã«é…ç½®ã§ãã¾ã™ã€‚
+
+[æ“ä½œ]
+ãƒ»ãƒ¡ã‚¤ãƒ³ãƒ•ã‚©ãƒ¼ãƒ 
+  â‡’ä¸€ç•ªä¸‹ã®ã€ŒAdd Overlayã€ãƒœã‚¿ãƒ³ã‚’ã‚¯ãƒªãƒƒã‚¯ã™ã‚‹ã“ã¨ã§ã‚ªãƒ¼ãƒãƒ¼ãƒ¬ã‚¤ã‚’è¿½åŠ ã§ãã¾ã™ã€‚
+  â‡’è¿½åŠ æ™‚æŒ‡å®šã—ãŸURLã‚’ãƒ–ãƒ©ã‚¦ã‚¶ã‚½ãƒ¼ã‚¹ã¨ã—ã¦è¡¨ç¤ºã§ãã¾ã™ã€‚
+  â‡’è¿½åŠ ã—ãŸã‚½ãƒ¼ã‚¹ã¯ãƒ¡ã‚¤ãƒ³ãƒ•ã‚©ãƒ¼ãƒ ã«ãƒªã‚¹ãƒˆã§è¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
+    â†’ã€ŒShowã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã“ã¨ã§è¡¨ç¤ºéè¡¨ç¤ºã‚’åˆ‡ã‚Šæ›¿ãˆã¾ã™ã€‚
+    â†’ã€ŒBGTransã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã“ã¨ã§èƒŒæ™¯è‰²ã®é€éä¸é€éã‚’åˆ‡ã‚Šæ›¿ãˆã¾ã™ã€‚
+    â†’ã€ŒÃ—ã€ãƒœã‚¿ãƒ³ã‚’æŠ¼ã™ã“ã¨ã§ã‚½ãƒ¼ã‚¹ã‚’å‰Šé™¤ã§ãã¾ã™ã€‚
+
+ãƒ»ã‚ªãƒ¼ãƒãƒ¼ãƒ¬ã‚¤ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦
+  â‡’è¡¨ç¤ºçŠ¶æ…‹ã®ã‚ªãƒ¼ãƒãƒ¼ãƒ¬ã‚¤ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã¯ç§»å‹•ãƒ»ã‚µã‚¤ã‚ºå¤‰æ›´å¯èƒ½ã§ã™ãŒã€éè¡¨ç¤ºã‚„èƒŒæ™¯é€éçŠ¶æ…‹ã®ã‚ªãƒ¼ãƒãƒ¼ãƒ¬ã‚¤ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã¯ç§»å‹•ã‚‚ã‚µã‚¤ã‚ºå¤‰æ›´ã‚‚ã§ãã¾ã›ã‚“ã€‚
 
 
-ˆÓŒ©“™‚ÍGitHub‚É‚Äó‚¯•t‚¯‚Ä‚¢‚Ü‚·B
+[ä»Šå¾Œã®èª²é¡Œ]
+ãƒ»ãƒ–ãƒ©ã‚¦ã‚¶å†…ã®ç¸®å°æ‹¡å¤§ã‚’ã‚µãƒãƒ¼ãƒˆ
+
+
+æ„è¦‹ç­‰ã¯GitHubã«ã¦å—ã‘ä»˜ã‘ã¦ã„ã¾ã™ã€‚
 
 

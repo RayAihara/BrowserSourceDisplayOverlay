@@ -31,9 +31,10 @@ The browser background can be switched between transparent and opaque, and comme
   ⇒The overlay window in the visible state can be moved and resized, but the overlay window in the non-display or transparent state cannot be moved or resized.  
   ⇒You can change the magnification of the browser by pressing Ctrl + Mouse Wheel Scroll.  
   
-[About the source code]  
-Basically, it is open to the public, but secondary distribution is prohibited.  
-  
+[Notes]  
+Since this application places a browser with a transparent background, it is often not possible to display it on top of full-screen games or other applications that do not allow windows to be placed on the surface of the screen.  
+This can be solved in most cases by making the game a borderless window. (There is a report that R6S cannot be displayed even with borderless. We are currently investigating.)  
+
 [Future issues]  
   
   
@@ -70,6 +71,10 @@ TwitchやYoutubeのゲーム配信の際に、「コメントを見るために�
 ・オーバーレイウィンドウ  
   ⇒表示状態のオーバーレイウィンドウは移動・サイズ変更可能ですが、非表示や背景透過状態のオーバーレイウィンドウは移動もサイズ変更もできません。  
   ⇒Ctrl + スクロールでブラウザの表示倍率を変更できます  
+  
+[注意事項]  
+本アプリ背景透過のブラウザを配置するアプリなので、フルスクリーンのゲーム等、画面の表面にウィンドウを配置することが出来ないアプリの上には表示できないことが多いです。  
+これはほとんどの場合、ゲームをボーダーレスウィンドウにすることで解決することが出来ます。(R6Sに関してはボーダーレスでも表示できないとの報告アリ。現在調査中です。)  
   
 [今後の課題]  
 
